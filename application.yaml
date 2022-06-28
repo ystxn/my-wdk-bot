@@ -1,0 +1,6 @@
+bdk:
+  host: develop2.symphony.com
+  bot:
+    username: ys-bot
+    privateKey:
+      path: rsa/privatekey.pem
